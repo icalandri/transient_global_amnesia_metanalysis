@@ -19,8 +19,6 @@ The full package contains
 To know more about the methods  of data adquisition and selection please visit the 
 protocol registered in the international prospective register of systematic reviews PROSPERO (registration number PROSPERO 2021 CRD42021249506). 
 
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
 
 ## Data dictionary
 
